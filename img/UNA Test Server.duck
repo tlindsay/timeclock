@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Access Timestamp</key>
+	<string>1354918897301</string>
+	<key>Hostname</key>
+	<string>nabweb.beacontec.com</string>
+	<key>Nickname</key>
+	<string>UNA Test Server</string>
+	<key>Port</key>
+	<string>21</string>
+	<key>Protocol</key>
+	<string>ftps</string>
+	<key>UUID</key>
+	<string>ffba534d-d0fc-40f5-ba97-6bec32d047a9</string>
+	<key>Username</key>
+	<string>tlindsay</string>
+	<key>Web URL</key>
+	<string>http://unatest.beacontest.com</string>
+</dict>
+</plist>

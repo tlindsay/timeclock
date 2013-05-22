@@ -1,0 +1,67 @@
+@font-face{
+  font-family: lobster;
+  src: url('../fonts/lobster.ttf');
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: #fff;
+	text-decoration: none;
+	padding:none;
+}
+
+body{
+	padding: 4%;
+	width: 90%;
+}
+
+div.navbar{
+	padding-top: 5px;
+	padding-left: 6%;
+	font-size: 14pt;
+	color: white;
+	font-weight: bold;
+
+	background-color: #444;
+}
+
+div.header, div.header a{
+	color: #333;
+	/*font-family: lobster;*/
+}
+
+div.subheader{
+	font-family: helvetica;
+	margin-left: 1%;
+}
+
+div.container{
+	padding: 7px !important;
+	width: auto !important;
+}
+
+div.login-box{
+	padding: 5px;
+	width: 100%;
+
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 1px;
+	border-radius: 5px;
+	background-color: #eee;	
+}
+
+div#login input[type="number"]{
+	height: auto;
+}
+
+div#splash img{
+	height: auto;
+	width: auto;
+
+	margin-top: 15%;
+	margin-bottom: 50%;
+}

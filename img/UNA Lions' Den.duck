@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Access Timestamp</key>
+	<string>1358529996109</string>
+	<key>Hostname</key>
+	<string>ftp.unalionsden.com</string>
+	<key>Nickname</key>
+	<string>UNA Lions' Den</string>
+	<key>Port</key>
+	<string>21</string>
+	<key>Protocol</key>
+	<string>ftps</string>
+	<key>UUID</key>
+	<string>c9c99798-91d8-4938-aece-6e3cc6064d2c</string>
+	<key>Username</key>
+	<string>tlindsay@unalionsden.com</string>
+	<key>Web URL</key>
+	<string>http://www.unalionsden.com</string>
+</dict>
+</plist>
